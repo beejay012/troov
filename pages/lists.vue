@@ -18,11 +18,11 @@
       </li>
 
       <li class="nav-item">
-        <a class="nav-link" href="/add">Ajouter un objet</a>
+        <a class="nav-link" href="add">Ajouter un objet</a>
       </li>
   
       <li class="nav-item">
-        <a class="nav-link" href="/lists">Liste des Objets</a>
+        <a class="nav-link" href="lists">Liste des Objets</a>
       </li>
       
       <li class="nav-item">
